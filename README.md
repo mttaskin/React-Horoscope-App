@@ -1,3 +1,3 @@
 # React-Horoscope-App
 
-react-horoscope-app-mt.netlify.app
+# https://react-horoscope-app-mt.netlify.app/
